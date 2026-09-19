@@ -1,0 +1,5 @@
+Hello, my name is areesha.
+I am learning Python.
+I am currently practicing file handling.
+Python is easy and interesting.
+I want to improve my programming skills.
